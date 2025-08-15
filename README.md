@@ -11,17 +11,17 @@ The recognized signs are shown as text on the screen and can also be converted i
 
 Main Features:
 
-> Tracks hand, arm, and body movements using Kinect sensor
-> Recognizes predefined sign language gestures
-> Shows translated text on the screen
-> Option to speak out the translated text
-> Helps bridge the communication gap between hearing-impaired and normal-hearing people
+1. Tracks hand, arm, and body movements using Kinect sensor
+2. Recognizes predefined sign language gestures
+3. Shows translated text on the screen
+4. Option to speak out the translated text
+5. Helps bridge the communication gap between hearing-impaired and normal-hearing people
 
 Future Features to Add:
 
-> Support for more signs and full sentence translation
-> Multi-language output for translated speech
-> AI-based gesture recognition for faster and more accurate results
-> Continuous learning mode to add new custom signs
-> Mobile or web integration for remote communication
+1. Support for more signs and full sentence translation
+2. Multi-language output for translated speech
+3. AI-based gesture recognition for faster and more accurate results
+4. Continuous learning mode to add new custom signs
+5. Mobile or web integration for remote communication
 
